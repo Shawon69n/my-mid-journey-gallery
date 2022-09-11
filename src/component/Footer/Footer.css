@@ -1,0 +1,9 @@
+footer{
+    background-color: black;
+    margin-top: 30px;
+    padding: 3px;
+    text-align: center;
+    color: white;
+    opacity: 80%;
+    font-family: cursive, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

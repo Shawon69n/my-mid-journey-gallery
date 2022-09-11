@@ -1,0 +1,38 @@
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #111;
+    opacity: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .navbar h3{
+    color: white;
+    font-family: cursive, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 45%;
+  }
+  
+  .login-btn{
+    font-family: cursive, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 50px;
+    height: 30px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 20px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  .signout-btn{
+    width: 70px;
+    height: 30px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 20px;
+    font-weight: 600;
+    cursor: pointer;
+  }
+ 
